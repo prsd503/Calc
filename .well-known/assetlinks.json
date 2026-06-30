@@ -1,8 +1,22 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.prsd503.twa",
-        "sha256_cert_fingerprints": ["20:1C:30:44:F2:56:05:1C:BC:24:AC:C4:F0:75:AC:5B:59:E2:E7:45:0C:9C:E2:7D:59:82:31:50:ED:70:28:51"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.prsd503.twa",
+      "sha256_cert_fingerprints": [
+        "20:1C:30:44:F2:56:05:1C:BC:24:AC:C4:F0:75:AC:5B:59:E2:E7:45:0C:9C:E2:7D:59:82:31:50:ED:70:28:51"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.prsd503.twa",
+      "sha256_cert_fingerprints": [
+        "89:9E:D5:52:E5:43:BA:3F:4A:93:54:C7:91:10:51:A9:EE:A5:71:EA:23:2F:7D:80:6C:2D:05:EE:F4:26:47:44"
+      ]
+    }
+  }
+]

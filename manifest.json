@@ -2,7 +2,7 @@
   "name": "ChromaCalc Premium",
   "short_name": "ChromaCalc",
   "description": "Vibrant custom color calculator with smart result caching.",
-  "start_url": "./",
+  "start_url": "/Calc/",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#ff007f",

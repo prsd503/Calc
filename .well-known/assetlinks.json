@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.prsd503.twa",
+        "sha256_cert_fingerprints": ["18:EE:26:72:14:59:FC:A7:1E:85:70:78:E9:EB:E6:3D:CF:C9:1F:03:F0:5A:1B:05:D1:0B:18:44:31:6D:19:B3"]
+      }
+    }]
